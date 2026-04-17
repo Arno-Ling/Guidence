@@ -1,0 +1,14 @@
+{
+  "preferredDestinations": [],
+  "dietaryPreferences": [],
+  "favoriteFood": [],
+  "updatedAt": 1776323531614,
+  "version": 4,
+  "travelStyle": "自驾游",
+  "budgetRange": {
+    "min": 0,
+    "max": 0,
+    "unit": "per_trip"
+  },
+  "hotelPreference": "舒适型"
+}

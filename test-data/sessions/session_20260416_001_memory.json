@@ -1,0 +1,18 @@
+{
+  "sessionId": "session_20260416_001",
+  "userId": "user_001",
+  "mentionedPlaces": [
+    "我喜欢",
+    "从上海"
+  ],
+  "mentionedDates": [
+    "下周"
+  ],
+  "decisions": [],
+  "cachedSearchResults": {},
+  "temporaryOverrides": {},
+  "createdAt": 1776323531591,
+  "updatedAt": 1776323531610,
+  "currentGoal": "规划一个杭州三日游",
+  "mentionedPeople": 2
+}
